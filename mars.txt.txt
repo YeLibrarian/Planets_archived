@@ -6,3 +6,6 @@ add a now line to it. \
 change to test. sddsdf
 
 Making a change per Blake's request. 
+
+
+A new change from one collaborator that can cause conflict. 
